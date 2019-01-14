@@ -31,12 +31,12 @@
 
   .header-name {
     @include sans;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: 900;
     text-align: center;
-    letter-spacing: -.15rem;
+    letter-spacing: 0rem;
     line-height: 1;
-    margin: 1rem 0 0;
+    margin: 0rem 0 0;
   }
 
   .header-contact-info {
