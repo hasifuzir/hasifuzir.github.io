@@ -24,8 +24,8 @@
     width: 95px;
     max-width: 100%;
     overflow: hidden;
-    @include border-radius(100px);
-    margin: 0 auto;
+    @include border-radius(50px);
+    margin: 0 0;
     display: block;
   }
 
