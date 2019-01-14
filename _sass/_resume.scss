@@ -202,20 +202,20 @@
   .no-print { display: none !important }
   .print-only { display: block !important }
   body { font-size: 12px; line-height: 1rem; }
-  .page-header { padding: 0rem 0 .1.5rem;
+  .page-header { padding: 0rem 0 .1rem;
     .header-name {
       @include sans_bold;
       font-size: 1.5rem;
-      margin: 0 0 .1.5rem;
+      margin: 0 0 .1rem;
     }
   }
   .section-header {
     @include section_border_thin;
     margin-bottom: 1rem;
-    h2 { font-size: 1.1.5rem; line-height: 1.5rem; }
+    h2 { font-size: 1.5rem; line-height: 1.5rem; }
   }
   .content-section {
-    margin: 0 0 0.1rem;
+    margin: 0 0 .1rem;
     .resume-item { margin-bottom: 1rem; }
     .resume-item-title {
       font-size: 16px;
@@ -224,7 +224,7 @@
 
     .resume-item-details {
       font-size: 12px;
-      margin: 0 0 .75rem;
+      margin: 0 0 .1rem;
       line-height: .7em;
       font-style:italic;
 
