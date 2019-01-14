@@ -3,14 +3,13 @@
   uni: University College London, London
   year: 2015 &mdash; 2019
   awards:
-    - award: Year 1&:; First Class, Year 2&:; First Class, Year 3&:; First Class; Minor Module&:; Japanese (Intermediate)
-    - award: Year 3 Project&:; Machine Learning to Predict Pollution, Weather, and Traffic for Smart Cities
+    - award: Year 1&#58; First Class, Year 2&#58; First Class, Year 3&#58; First Class; Minor Module&#58; Japanese (Intermediate)
+    - award: Year 3 Project&#58; Machine Learning to Predict Pollution, Weather, and Traffic for Smart Cities
     - summary: Researched, analysed and developed a multivariate machine learning algorithm to predict future pollution, weather and traffic conditions in London, presented in a user-friendly graphical interface.
-    - award: Year 4 Project&:; Compact Warehouse Robot
+    - award: Year 4 Project&#58; Compact Warehouse Robot
     - summary: Researched, analysed and developed a multivariate machine learning algorithm to predict future pollution, weather and traffic conditions in London, presented in a user-friendly graphical interface.
 
 - degree: High School Diploma
   uni: Kolej Yayasan UEM, Selangor
   year: 2014 &mdash; 2015
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  summary: A-Levels&#58; Physics A*, Economics A*, Mathematics A
