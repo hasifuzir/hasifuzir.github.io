@@ -5,12 +5,12 @@
 
 .section-header {
   @include section_border;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 
-  h2 {
+  h3 {
     @include sans;
     font-weight: 900;
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     letter-spacing: -.05rem;
     margin: 0;
   }
