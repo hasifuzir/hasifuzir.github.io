@@ -13,8 +13,8 @@ html {
 body{
   @include serif;
   color: $text_color;
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 12px;
+  line-height: 1.25;
 }
 
 .wrapper:before,
