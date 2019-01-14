@@ -31,7 +31,7 @@
 
   .header-name {
     @include sans;
-    font-size: 1.5re;
+    font-size: 1.5rem;
     font-weight: 900;
     text-align: center;
     letter-spacing: -.15rem;
@@ -49,7 +49,7 @@
 
   .title-bar {
     @include section_border;
-    margin-top: 1.5re;
+    margin-top: 1.5rem;
     padding: .4rem 0;
     @include clearfix;
 
@@ -57,7 +57,7 @@
       @include sans;
       font-weight: 300;
       font-size: 1.5rem;
-      line-height: 1.5re;
+      line-height: 1.5rem;
       letter-spacing: -.05rem;
       text-align: center;
       margin: 0 0 .5rem;
@@ -137,7 +137,7 @@
 .content-section {
   margin: 0 0 3rem;
 
-  .resume-item { margin-bottom: 1.5re; }
+  .resume-item { margin-bottom: 1.5rem; }
 
   .resume-item-title {
     @include sans_bold;
@@ -202,17 +202,17 @@
   .no-print { display: none !important }
   .print-only { display: block !important }
   body { font-size: 12px; line-height: 1rem; }
-  .page-header { padding: 1rem 0 .1.5re;
+  .page-header { padding: 1rem 0 .1.5rem;
     .header-name {
       @include sans_bold;
-      font-size: 1.5re;
-      margin: 0 0 .1.5re;
+      font-size: 1.5rem;
+      margin: 0 0 .1.5rem;
     }
   }
   .section-header {
     @include section_border_thin;
     margin-bottom: 1rem;
-    h2 { font-size: 1.1.5re; line-height: 1.5rem; }
+    h2 { font-size: 1.1.5rem; line-height: 1.5rem; }
   }
   .content-section {
     margin: 0 0 1rem;
