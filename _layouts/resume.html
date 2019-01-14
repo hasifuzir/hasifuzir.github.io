@@ -65,7 +65,7 @@
               {% for award in education.awards %}
               <li>{{ award.award }}
                 <ul class="resume-item-list">
-                  {% for award in education.awarddetail %}
+                  {% for award in award.awarddetail %}
                   <li>{{ award.award }}</li>
                   {% endfor %}
                 </ul>
