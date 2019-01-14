@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Hasif Uzir"
+description: "Hasif Uzir's resume"
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Muhammad Hasif Bin Muhammad Uzir"
+resume_title:                   "4th Year MEng Electrical & Electronic Engeering at UCL"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "hasifuzir@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "+4407746353396"
+resume_contact_address:         "No. 7, Jalan Suria Tropika 5, Taman Suria Tropika, 43300 Seri Kembangan, Selangor."
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "No. 7, Jalan Suria Tropika 5, Taman Suria Tropika, 43300 Seri Kembangan, Selangor. • +4407746353396 • hasifuzir@gmail.com"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>A Yayasan Khazanah scholar currently pursuing a degree in Electronic & Electrical Engineering expecting to graduate with first-class honours. Hands-on experience in engineering projects through internships, university projects and competitions as well as communication, management and problem-solving skills.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
