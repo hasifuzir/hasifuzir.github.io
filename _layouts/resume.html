@@ -42,7 +42,7 @@
         {% if site.resume_looking_for_work == 'yes' %}
         <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
         {% elsif site.resume_looking_for_work == 'no' %}
-        <a class="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email"</a>
+        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
         {% else %}
         {% endif %}
 
