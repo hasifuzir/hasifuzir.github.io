@@ -167,6 +167,7 @@
       color: #333;
       text-decoration: none;
       border-bottom: 1px solid;
+      text-align: justify;
 
       &:hover {
         border-bottom: none;
@@ -175,7 +176,9 @@
     }
   }
 
-  .resume-item-copy { margin: .75rem 0 0; }
+  .resume-item-copy { margin: .75rem 0 0;
+  text-align: justify;
+ }
 }
 
 // footer styles
