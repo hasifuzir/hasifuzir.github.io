@@ -6,4 +6,4 @@
   role: University Mini Research Project
   duration: Dec 2018
   #url: "https://github.com/hasifuzir/AMLSassignment_15000514"
-  description: <a href="https://github.com/hasifuzir/AMLSassignment_15000514">GitHub</a>&mdash;<a href="../pdf/Utilising CNNs for Facial Feature Classification.pdf">Paper</a><br>An implementation and comparison between a CNN, MLP and Inception v3 machine learning algorithms to predict facial features based on supervised learning as part of a graded assessment for the Applied Machine Learning Systems module.
+  description: <a href="https://github.com/hasifuzir/AMLSassignment_15000514">GitHub</a>&bull;<a href="../pdf/Utilising CNNs for Facial Feature Classification.pdf">Paper</a><br>An implementation and comparison between a CNN, MLP and Inception v3 machine learning algorithms to predict facial features based on supervised learning as part of a graded assessment for the Applied Machine Learning Systems module.
