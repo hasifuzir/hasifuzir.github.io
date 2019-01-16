@@ -163,6 +163,8 @@
   .resume-item-details,
   .resume-item-copy,
   .resume-item-list {
+    text-align: justify;
+
     a {
       color: #333;
       text-decoration: none;
@@ -172,6 +174,7 @@
       &:hover {
         border-bottom: none;
         color: #9c9c9c;
+        text-align: justify;
       }
     }
   }
