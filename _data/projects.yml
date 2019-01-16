@@ -5,4 +5,5 @@
 - project: Utilising Convolutional Neural Networks for Facial Feature Classification
   role: University Mini Research Project
   duration: Dec 2018
-  description: An implementation and comparison between a CNN, MLP and Inception v3 machine learning algorithms to predict facial features based on supervised learning as part of a graded assessment for the Applied Machine Learning Systems module.<br><a href="https://github.com/hasifuzir/AMLSassignment_15000514">Project GitHub</a>
+  #url: "https://github.com/hasifuzir/AMLSassignment_15000514"
+  description: <a href="https://github.com/hasifuzir/AMLSassignment_15000514">GitHub</a>&mdash;<a href="../pdf/Utilising CNNs for Facial Feature Classification.pdf">Paper</a><br>An implementation and comparison between a CNN, MLP and Inception v3 machine learning algorithms to predict facial features based on supervised learning as part of a graded assessment for the Applied Machine Learning Systems module.
