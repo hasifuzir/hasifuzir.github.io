@@ -1,13 +1,8 @@
 # Degree
-- degree: MEng Electronic & Electrical Engineering (Expected&#58; First Class)
+- degree: MEng Electronic & Electrical Engineering
   uni: University College London, <i>London</i>
   year: 2015 &mdash; 2019
-  award: Year 1&#58; First Class, Year 2&#58; First Class, Year 3&#58; First Class<br>Minor Module&#58; Japanese (Intermediate)
+  award: First Class Overall
   awards:
-    - award: Year 3 Project&#58; <i>Identifying Machine Learning Algorithms to Predict Pollution, Weather, and Traffic Conditions for Smart City Applications </i><ul class="resume-item-list"><li>Researched, analysed and developed a multivariate machine learning algorithm to predict future pollution, weather and traffic conditions in London, presented in a user-friendly graphical interface.</li></ul>
     - award: Year 4 Project&#58; <i>Compact Warehouse Robot </i><ul class="resume-item-list"><li>Researched and developed software and hardware for an autonomous robot for use in warehouses to collect and deliver products via autonomous navigation with a team of 3 other students.</li></ul>
-
-- degree: CIE A-Levels
-  uni: Kolej Yayasan UEM, <i>Selangor</i>
-  year: 2014 &mdash; 2015
-  summary: Physics A*, Economics A*, Mathematics A
+    - award: Year 3 Project&#58; <i>Identifying Machine Learning Algorithms to Predict Pollution, Weather, and Traffic Conditions for Smart City Applications </i><ul class="resume-item-list"><li>Researched, analysed and developed a multivariate machine learning algorithm to predict future pollution, weather and traffic conditions in London, presented in a user-friendly graphical interface.</li></ul>
