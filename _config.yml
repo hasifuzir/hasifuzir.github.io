@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Muhammad Hasif Bin Muhammad Uzir"
-resume_title:                   "4th Year MEng Electronic & Electrical Engeering at UCL"
+resume_title:                   "Technology Associate at Astro"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "hasifuzir@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+4407746353396"
-resume_contact_address:         "No. 7, Jalan Suria Tropika 5, Taman Suria Tropika, 43300 Seri Kembangan, Selangor."
+resume_contact_telephone:
+resume_contact_address:
 
-resume_header_contact_info:     "No. 7, Jalan Suria Tropika 5, Taman Suria Tropika, 43300 Seri Kembangan, Selangor.   +4407746353396 • +60127378802 • hasifuzir@gmail.com"
+resume_header_contact_info:     "hasifuzir@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>A Yayasan Khazanah scholar currently pursuing a degree in Electronic & Electrical Engineering expecting to graduate with first-class honours. Hands-on experience in engineering projects through internships, university projects and competitions as well as communication, management and problem-solving skills.</p>"
+resume_header_intro: "<p>A UCL graduate of Electronics & Electrical Engineering currently a Technology Associate at Astro. Hands-on experience in engineering projects through internships, university projects and competitions as well as communication, management and problem-solving skills.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
